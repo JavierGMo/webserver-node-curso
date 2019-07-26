@@ -5,3 +5,9 @@
 ```
 npm install
 ```
+
+## Para probar ejecute
+
+```
+node server.js
+```
